@@ -1,0 +1,38 @@
+body {
+    background:linear-gradient(to right, #00416A, #E4E5E6);  
+
+}
+ 
+h1{
+    text-align: center;
+    color: #79CAFF;
+
+}  
+
+img{
+   border-radius: 25px;
+}
+
+
+
+main {
+    background-color:#F7F8F8;
+    border-radius: 20px;
+    box-shadow: #00416A;
+    width: 1000px;
+    padding: 8px;
+    margin: auto;
+    text-align: center;
+    font-size:16px;
+    font-family:'Times New Roman', Times, serif
+    
+
+
+    
+    
+
+
+
+
+
+   

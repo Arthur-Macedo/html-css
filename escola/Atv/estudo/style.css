@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+
+@font-face {
+    font-family: 'jmh';
+    src: url('fontes/JMH\ Typewriter-Black.ttf') format('truetype');
+}
+
+body{
+    background-image: linear-gradient(90deg,#6A00B5, #9F19FF);
+    color: rgb(16, 16, 16);
+}
+
+h1{
+    font-family: 'Stint Ultra Condensed', cursive;
+    text-align: center;
+    
+}
+
+
+main{
+    background-color: #c2cf02;
+    width: 1050px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 15px;
+
+}
+
+div{
+    text-align: center;
+    font-family: 'jmh', Helvetica, sans-serif ;
+}

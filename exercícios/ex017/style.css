@@ -1,0 +1,49 @@
+main{
+    font-family: 'Work Sans' Arial, Helvetica, sans-serif;
+    /*
+    Medidas Absolutas 
+    cm, mm, in, -px-, pt, pc
+    
+    Medidas Relativas
+    -em-, ex, rem, vw, vh, %
+    16px geralmente = 1em
+    */
+    font-size: 1em;
+    
+/* lighter normal bold bolder*/
+/* Weight - peso  Width - largura  Height - altura */
+}
+
+h1{
+    /*shorthand font
+   -font-style -> font-weight -> font-size -> font-family 
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 2em;
+    */
+   font: italic bold 2em 'Work Sans',sans-serif
+}
+
+h2{
+   font: normal 2em 'Work Sans'; 
+}
+
+body{
+    font: normal 16px Arial, Verdana, serif;
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: right;
+}
+
+p{
+    text-align: justify;
+    text-indent: 20px;
+}

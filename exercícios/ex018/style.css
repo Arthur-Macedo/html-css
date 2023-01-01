@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bebas+Neue&display=swap');
+
+@font-face {
+    font-family: 'JMH' ;
+    src: url('fontes/JMH\ Typewriter-Black.ttf') format('truetype'), url('fontes/JMH\ Typewriter-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
+    color: black;
+}
+
+h1{
+    font-family:'Amatic SC', cursive;
+    color: rgba(18, 25, 116, 0.863);
+}
+
+h2{
+    color: rgba(0, 0, 0, 0.511);
+    font-family: 'JMH', Times, serif;
+}
